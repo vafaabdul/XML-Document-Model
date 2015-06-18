@@ -1,0 +1,22 @@
+
+      <?xml version="1.0" encoding="utf-8">
+      <!--  Operating Systems  -->
+        <!--  Microsoft  -->
+          <OSes>
+            <OS name="Microsoft-Windows-8.1">
+              <SetupLanguage>
+                <UILang>
+                    IN
+                </UILang>
+                <ShowUI>
+                    OnError
+                </ShowUI>
+              </SetupLanguage>
+              <SysLocale>
+                  US
+              </SysLocale>
+              <UserLocale>
+                  IN
+              </UserLocale>
+            </OS>
+          </OSes>

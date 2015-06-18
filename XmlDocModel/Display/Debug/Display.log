@@ -1,0 +1,24 @@
+﻿Build started 3/22/2015 7:32:56 PM.
+     1>Project "C:\Vafa\Assignments\OOD\Project2\XmlDocModel\Display\Display.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /D TEST_DISPLAY /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\XmlDocument\XmlDocument\Utilities.cpp ..\XmlDocument\XmlDocument\XmlDocument.cpp ..\XmlDocument\XmlElement\XmlElement.cpp ..\XmlElementParts\XmlElementParts\Tokenizer.cpp ..\XmlElementParts\XmlElementParts\xmlElementParts.cpp Display.cpp
+         Display.cpp
+         xmlElementParts.cpp
+         Tokenizer.cpp
+         XmlElement.cpp
+         XmlDocument.cpp
+         Utilities.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Vafa\Assignments\OOD\Project2\XmlDocModel\Debug\Display.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Vafa\Assignments\OOD\Project2\XmlDocModel\Debug\Display.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Vafa\Assignments\OOD\Project2\XmlDocModel\Debug\Display.lib" /MACHINE:X86 Debug\Utilities.obj
+         Debug\XmlDocument.obj
+         Debug\XmlElement.obj
+         Debug\Tokenizer.obj
+         Debug\xmlElementParts.obj
+         Debug\Display.obj
+         Display.vcxproj -> C:\Vafa\Assignments\OOD\Project2\XmlDocModel\Debug\Display.exe
+     1>Done Building Project "C:\Vafa\Assignments\OOD\Project2\XmlDocModel\Display\Display.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.89
